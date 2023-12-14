@@ -2,6 +2,7 @@
   <div class="p-4 space-y-6">
     <div>Homepage</div>
     <Badge label="" />
+    <HomeCard />
   </div>
 </template>
 

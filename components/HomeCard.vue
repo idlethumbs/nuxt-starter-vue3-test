@@ -1,6 +1,6 @@
 <template>
   <div class="homecard">
-    <h2 style="padding: 10px; border-bottom: 1px solid #ccc">{{ $props.heading }}</h2>
+    <h2 style="padding: 10px; border-bottom: 1px solid #ccc">Heading</h2>
 
     <div style="padding: 20px">
       <p>
